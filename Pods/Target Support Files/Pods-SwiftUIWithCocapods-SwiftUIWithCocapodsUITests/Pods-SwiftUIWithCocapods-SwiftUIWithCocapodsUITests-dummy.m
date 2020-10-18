@@ -1,5 +1,0 @@
-#import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_SwiftUIWithCocapods_SwiftUIWithCocapodsUITests : NSObject
-@end
-@implementation PodsDummy_Pods_SwiftUIWithCocapods_SwiftUIWithCocapodsUITests
-@end
